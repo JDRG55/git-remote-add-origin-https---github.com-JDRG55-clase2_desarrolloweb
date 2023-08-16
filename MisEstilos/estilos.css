@@ -1,0 +1,30 @@
+a{
+    color: blueviolet;
+    font-size: x-large;
+}
+p{
+    color: rgb(17, 226, 101);
+    font-size: x-large;
+}
+
+#enlace1{
+    color: rgb(17, 226, 101);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#bloque1{
+    margin: 60px 20px 30px 40px;
+    padding-left: 100px;
+    background-color: blueviolet;
+
+}
+#bloque2{
+    margin: 60px 20px 30px 40px;
+    padding-left: 100px;
+    background-color: rgb(38, 43, 80);
+}
+#carro{
+    margin: 90px 20px 30px 40px;
+ 
+  
+}
