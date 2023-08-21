@@ -17,6 +17,8 @@ p{
     margin: 5px 5px 5px 5px;
     padding-left: 650px;
     background-color: blueviolet;
+    top: 27px;
+    position: relative;
     
 }
 #bloque2{
@@ -63,6 +65,7 @@ p{
     border: 1px solid #03f754;
     border-collapse: collapse;
     left: 5px;
+    top: 15px;
     position: relative;
 
   }
