@@ -12,6 +12,9 @@ p{
     font-family: 'Courier New', Courier, monospace;
 }
 
+.color_carro{
+    color: rgb(215, 26, 26);
+}
 
 #bloque1{
     margin: 5px 5px 5px 5px;
