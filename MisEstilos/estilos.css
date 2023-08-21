@@ -12,11 +12,12 @@ p{
     font-family: 'Courier New', Courier, monospace;
 }
 
+
 #bloque1{
     margin: 5px 5px 5px 5px;
     padding-left: 650px;
     background-color: blueviolet;
-
+    
 }
 #bloque2{
     margin: 5px 5px 5px 5px;
@@ -32,6 +33,13 @@ p{
 #cuadro{
     list-style-type: circle
 }
+#cuadro1{
+    list-style-type: circle
+}
+#cuadro2{
+    list-style-type: circle
+}
+
 
 #carros{
     list-style-type: square
@@ -43,7 +51,7 @@ p{
  .normal {
     width: 250px;
     border: 1px solid #000;
-    border-collapse: collapse;
+   
   }
   .normal th, .normal td {
     border: 1px solid #000;
