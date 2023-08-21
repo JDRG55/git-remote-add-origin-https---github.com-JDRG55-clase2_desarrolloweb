@@ -13,8 +13,8 @@ p{
 }
 
 #bloque1{
-    margin: 60px 20px 80px 80px;
-    padding-left: 100px;
+    margin: 5px 5px 5px 5px;
+    padding-left: 650px;
     background-color: blueviolet;
 
 }
@@ -48,3 +48,14 @@ p{
   .normal th, .normal td {
     border: 1px solid #000;
   }
+
+  .fondo {
+  width: 100%;
+  height: 100vh;
+ background-image: url(/Misimagenes/fondo.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ 
+  }
+
