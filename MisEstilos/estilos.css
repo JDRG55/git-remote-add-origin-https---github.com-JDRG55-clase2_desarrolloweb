@@ -26,6 +26,16 @@
 
 }
 
+#bloque6 {
+    margin: 5px 5px 5px 5px;
+    padding-left: 650px;
+    background-color: rgb(57, 56, 60);
+    color: white;
+    top: 27px;
+    position: relative;
+
+}
+
 /* estilo de la pagina de corolla */
 #bloque5 {
     margin: 5px 5px 5px 5px;
