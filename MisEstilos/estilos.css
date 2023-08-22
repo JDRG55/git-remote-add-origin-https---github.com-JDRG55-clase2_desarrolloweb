@@ -7,6 +7,9 @@
     color: rgb(215, 26, 26);
 }
 
+
+  
+
 #bloque1 {
     margin: 5px 5px 5px 5px;
     padding-left: 650px;
@@ -25,15 +28,28 @@
     position: relative;
 
 }
+#bloque7{
+    margin: 5px 5px 5px 5px;
+    padding-left: 650px;
+    background-color: #0d00ff;
+    color: rgb(228, 7, 7);
+    top: 27px;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     }
 
 #bloque6 {
-    margin: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 10px;
     padding-left: 650px;
     background-color: rgb(57, 56, 60);
     color: white;
     top: 27px;
     position: relative;
 
+}
+
+#diseño{
+    padding-top: 7px;
 }
 
 /* estilo de la pagina de corolla */
@@ -43,7 +59,7 @@
     color: rgb(108, 105, 105);
     top: 27px;
     position: relative;
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #bloque2 {
@@ -114,6 +130,10 @@
 
 }
 
+.nuevo{
+    padding-top: 5px;
+
+}
 .fondo1 {
     width: 100%;
     height: 100vh;
